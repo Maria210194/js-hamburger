@@ -22,10 +22,9 @@ header {
     width: 80%;
 }
 .header-left img {
-    display: inline-block;
-    height: 100%;
+    height: 40px;
+    margin-top: 15px;
 }
-
 .header-right > a {
     display: none;
 }
